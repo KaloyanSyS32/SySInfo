@@ -1,4 +1,4 @@
-Pretty basic batch program showing your CPU ,RAM ,GPU (s) ,OS ,OS VER ,Build Number, PC
+Pretty basic batch program showing your CPU ,RAM ,GPU (s) ,OS ,OS VER ,PC Model
 
 
 
